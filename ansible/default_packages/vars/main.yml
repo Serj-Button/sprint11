@@ -1,0 +1,9 @@
+---
+# vars file for default_packages
+packages_to_install:
+  - dnsutils
+  - nginx
+  - wget
+  - curl
+  - mc
+  - rsync
